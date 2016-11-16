@@ -1,0 +1,10 @@
+code {
+  padding: 0 3px;
+  background-color: #f2f2f2;
+  border: solid 1px #ddd;
+}
+
+.author {
+  font-size: small;
+  font-style: italic;
+}

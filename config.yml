@@ -2,7 +2,7 @@
 contentdir: "content"
 layoutdir: "layouts"
 publishdir: "public"
-baseurl: "http://nntest.org"
+baseurl: "https://davisshaver.github.io/nntest.org/"
 title: "News Nerdery"
 canonifyurls: true
 theme: "sp-minimal"
