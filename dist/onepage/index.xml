@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Onepage-rsses on News Nerdery</title>
+    <link>http://nntest.org/onepage/index.xml</link>
+    <description>Recent content in Onepage-rsses on News Nerdery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <atom:link href="http://nntest.org/onepage/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>http://nntest.org/onepage/newest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://nntest.org/onepage/newest/</guid>
+      <description>&lt;p&gt;title: &amp;ldquo;Just another sample post&amp;rdquo;
+date: &amp;ldquo;2014-03-29&amp;rdquo;
+description: &amp;ldquo;This should be a more useful description&amp;rdquo;
+categories:
+    - &amp;ldquo;hugo&amp;rdquo;
+    - &amp;ldquo;fun&amp;rdquo;
+    - &amp;ldquo;test&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

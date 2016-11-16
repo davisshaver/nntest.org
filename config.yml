@@ -1,0 +1,18 @@
+---
+contentdir: "content"
+layoutdir: "layouts"
+publishdir: "public"
+baseurl: "http://nntest.org"
+title: "News Nerdery"
+canonifyurls: true
+theme: "sp-minimal"
+params:
+  title: "News Nerdery"
+  copyright: "News Nerdery is maintained by its users."
+  renderType: "single"
+  themeStyle: "simple"
+  authorImage: "gutenberg.jpg"
+  pageNotFoundTitle: "404 - Page not found"
+  description: "An international meta organization to foster news nerd collaboration and knowledge sharing"
+  googleAnalytics: "UA-62547806-1"
+...
