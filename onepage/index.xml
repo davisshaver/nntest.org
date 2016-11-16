@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Onepage-rsses on News Nerdery</title>
-    <link>http://nntest.org/onepage/index.xml</link>
+    <link>https://davisshaver.github.io/nntest.org/onepage/index.xml</link>
     <description>Recent content in Onepage-rsses on News Nerdery</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>News Nerdery is maintained by its users.</copyright>
     <lastBuildDate>Wed, 16 Nov 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://nntest.org/onepage/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://davisshaver.github.io/nntest.org/onepage/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>http://nntest.org/onepage/1-welcome/</link>
+      <link>https://davisshaver.github.io/nntest.org/onepage/1-welcome/</link>
       <pubDate>Wed, 16 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://nntest.org/onepage/1-welcome/</guid>
+      <guid>https://davisshaver.github.io/nntest.org/onepage/1-welcome/</guid>
       <description>
 
 &lt;p&gt;Hi! Welcome to News Nerdery.&lt;/p&gt;
@@ -25,10 +25,10 @@
     
     <item>
       <title></title>
-      <link>http://nntest.org/onepage/2-about/</link>
+      <link>https://davisshaver.github.io/nntest.org/onepage/2-about/</link>
       <pubDate>Wed, 16 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://nntest.org/onepage/2-about/</guid>
+      <guid>https://davisshaver.github.io/nntest.org/onepage/2-about/</guid>
       <description>&lt;p&gt;The News Nerdery is a collaboration of &lt;a href=&#34;https://github.com/aschweigert&#34;&gt;@aschweigert&lt;/a&gt;, &lt;a href=&#34;http://github.com/danielbachhuber&#34;&gt;@danielbachhuber&lt;/a&gt;, &lt;a href=&#34;http://github.com/davisshaver&#34;&gt;@davisshaver&lt;/a&gt;, &lt;a href=&#34;http://github.com/erikao&#34;&gt;@erikao&lt;/a&gt;, &lt;a href=&#34;https://github.com/gabelula&#34;&gt;@gabelula&lt;/a&gt;, &lt;a href=&#34;http://github.com/jacqui&#34;&gt;@jacqui&lt;/a&gt;, &lt;a href=&#34;http://github.com/knowtheory&#34;&gt;@knowtheory&lt;/a&gt;, &lt;a href=&#34;http://github.com/ryanpitts&#34;&gt;@ryanpitts&lt;/a&gt;, &lt;a href=&#34;http://github.com/sisiwei&#34;&gt;@sisiwei&lt;/a&gt;, and its members.&lt;/p&gt;
 
 &lt;p&gt;You can also follow &lt;a href=&#34;https://twitter.com/newsnerdery&#34;&gt;@newsnerdery&lt;/a&gt;.&lt;/p&gt;
@@ -37,10 +37,10 @@
     
     <item>
       <title></title>
-      <link>http://nntest.org/onepage/3-slack-channels/</link>
+      <link>https://davisshaver.github.io/nntest.org/onepage/3-slack-channels/</link>
       <pubDate>Wed, 16 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://nntest.org/onepage/3-slack-channels/</guid>
+      <guid>https://davisshaver.github.io/nntest.org/onepage/3-slack-channels/</guid>
       <description>&lt;p&gt;Our Slack channels include:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -52,10 +52,10 @@
     
     <item>
       <title></title>
-      <link>http://nntest.org/onepage/4-community-news/</link>
+      <link>https://davisshaver.github.io/nntest.org/onepage/4-community-news/</link>
       <pubDate>Wed, 16 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://nntest.org/onepage/4-community-news/</guid>
+      <guid>https://davisshaver.github.io/nntest.org/onepage/4-community-news/</guid>
       <description>
 
 &lt;h1 id=&#34;recent-newsnerdery&#34;&gt;Recent newsnerdery&lt;/h1&gt;
@@ -64,10 +64,10 @@
     
     <item>
       <title></title>
-      <link>http://nntest.org/onepage/4/</link>
+      <link>https://davisshaver.github.io/nntest.org/onepage/4/</link>
       <pubDate>Wed, 16 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://nntest.org/onepage/4/</guid>
+      <guid>https://davisshaver.github.io/nntest.org/onepage/4/</guid>
       <description>
 
 &lt;h2 id=&#34;a-cool-post&#34;&gt;A cool post&lt;/h2&gt;
