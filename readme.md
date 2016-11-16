@@ -45,6 +45,7 @@ author: "Joe Journo"
 ## A cool post
 ```
 Would be rendered as:
+
 ![screen shot 2016-11-16 at 3 42 59 pm](https://cloud.githubusercontent.com/assets/1636964/20365018/6364195e-ac13-11e6-98fc-a65b2218c42e.png)
 
 ## Deploying changes
